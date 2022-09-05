@@ -2,4 +2,4 @@
 #Hey! My name is D Vamsidhar
 
 
-![Profile views](https://gpvc.arturio.dev/D_Vamsidhar)
+![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
