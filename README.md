@@ -1,3 +1,3 @@
 # Hey! My name is D Vamsidhar
 
-<img src=”C:\Users\HP\Downloads\forgithub.png” alt=”alt text” width=”200"/>
+![alt text](https://{www.canva.com/design/DAFLXfe_y3I/JnIfWPRKCdXTSx87CCuxeQ/view?utm_content=DAFLXfe_y3I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink} “Github Header”)
