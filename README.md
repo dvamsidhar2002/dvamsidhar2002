@@ -1,3 +1,3 @@
-#                                     Hey! My name is D Vamsidhar
+#Hey! My name is D Vamsidhar
 
-"assets/forgithub.png"
+“https://github.com/dvamsidhar2002/D_Vamsidhar/blob/main/assets/forgithub.png”
