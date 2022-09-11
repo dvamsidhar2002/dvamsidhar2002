@@ -1,7 +1,7 @@
 <img src= "forgithub.png" alt= "Github banner" >
 
 
-## Hey! My name is D Vamsidhar
+<h1 align = "center"> Hey! My name is D Vamsidhar </h1>
 
 <hr><h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
