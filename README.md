@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
 </p>
 
 ## 📊 GitHub Stats:
