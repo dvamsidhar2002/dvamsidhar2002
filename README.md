@@ -6,6 +6,18 @@
 <hr><h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
 
+<h2 align="center">Hands on experience</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+</p>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=nightowl&hide_border=true)<br/>
