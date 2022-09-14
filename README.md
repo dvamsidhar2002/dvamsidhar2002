@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/CANVA-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/Matlab-2C2D72?style=plastic&logo=MATLAB&logoColor=black" height=20>
 </p>
 
 ## 📊 GitHub Stats:
