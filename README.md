@@ -53,4 +53,3 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
-<img src="https://wakatime.com/badge/user/aaa9886d-338c-47c9-b776-f0703babcd82.svg?style=for-the-badge" alt="Kunal Keshan Coding Time" />
