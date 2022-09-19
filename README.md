@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/CANVA-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Matlab-2C2D72?style=plastic&logo=MATLAB&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Github-23121011?style=plastic&logo=github&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
 </p>
 
 ## 📊 GitHub Stats:
