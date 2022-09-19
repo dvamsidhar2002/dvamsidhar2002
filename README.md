@@ -1,5 +1,6 @@
 <img src= "forgithub.png" alt= "Github banner" >
 
+<img src="https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg?style=plastic" alt="D Vamsidhar Coding Time" />
 
 <h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
 
@@ -52,3 +53,4 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
+<img src="https://wakatime.com/badge/user/aaa9886d-338c-47c9-b776-f0703babcd82.svg?style=for-the-badge" alt="Kunal Keshan Coding Time" />
