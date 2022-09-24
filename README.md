@@ -29,6 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45"/>
 </p>
 
+<h2 align="center">Certifications completed from </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=65FF8F" height=40>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=40>
+</p>
+
+
 ## 📊 GitHub Stats:
 ![Vamsidhar's Stats](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=nightowl&hide_border=true)<br/>
