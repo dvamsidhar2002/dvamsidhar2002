@@ -1,7 +1,6 @@
 <img src= "forgithub.png" alt= "Github banner" >
 
 Workspace Specs : <img src = "https://img.shields.io/badge/AMD%20Radeon_RX_5600-ED1C24?style=plastic&logo=amd&logoColor=white">
-<img src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" align = "right"> USER
 
 <h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
 
