@@ -1,6 +1,6 @@
 <img src= "forgithub.png" alt= "Github banner" >
 
-<img src="https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg?style=plastic" alt="D Vamsidhar Coding Time" />
+<img src = "https://img.shields.io/badge/AMD%20Radeon_RX_5600-ED1C24?style=plastic&logo=amd&logoColor=white">
 
 <h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
 
@@ -18,10 +18,15 @@
   <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/CANVA-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
-  <img src="https://img.shields.io/badge/MATLAB-2C2D72?style=plastic&logo=MATLAB&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/MATLAB-2C2D72?style=plastic&logo=matlab-original&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+</p>
+
+<p align = 'center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45"/>
 </p>
 
 ## 📊 GitHub Stats:
