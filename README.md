@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
 </p>
 
 <p align = 'center'>
@@ -32,8 +32,8 @@
 
 <h2 align="center">Certifications completed from </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=65FF8F" height=40>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=65FF8F" height=30>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
 </p>
 
 
