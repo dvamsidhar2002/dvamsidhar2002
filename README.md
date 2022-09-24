@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=nightowl)](https://github.com/dvamsidhar2002)
+[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=xcode)](https://github.com/dvamsidhar2002)
 
 <hr>
 
