@@ -73,7 +73,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <a href="https://vamsidhararticles.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white" height=20></a>
   <a href="https://medium.com/@dvamsidhar2002">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=20></a>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height=20></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
