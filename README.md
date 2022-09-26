@@ -47,7 +47,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 ## 📊 GitHub Stats:
 ![Vamsidhar's Stats](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
