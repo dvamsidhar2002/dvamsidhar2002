@@ -5,7 +5,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 <h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
 
-<hr><h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
+<h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
 
 <h2 align="center">Hands on Experience</h2>
