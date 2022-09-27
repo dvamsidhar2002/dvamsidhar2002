@@ -30,7 +30,6 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" height=20>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
 </p>
 
