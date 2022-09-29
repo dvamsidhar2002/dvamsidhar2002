@@ -10,7 +10,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
 
-<h2 align="center">My Tech Stachs</h2>
+<h2 align="center">Exploring and learning about</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
