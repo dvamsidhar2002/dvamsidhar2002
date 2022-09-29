@@ -10,7 +10,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
 
-<h2 align="center">Hands on Experience</h2>
+<h2 align="center">My Tech Stachs</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
@@ -30,6 +30,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Flask-black?style=plastic&logo=Flask&logoColor=white" height=20>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
 </p>
 
