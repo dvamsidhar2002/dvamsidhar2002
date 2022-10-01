@@ -22,6 +22,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/CANVA-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/MATLAB-2C2D72?style=plastic&logo=matlab-original&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
