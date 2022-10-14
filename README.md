@@ -10,7 +10,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
 <h3 align = "center"> Hey there. Welcome to my github profile</h3>
 <h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
-<p>Exploring the field of Data Science.</p><br>
+<p>Exploring the field of Data Science.</p>
 
 <h2 align="center">Exploring and learning about</h2>
 <p align="center">
