@@ -38,7 +38,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
 </p>
 
-<h2 align="center">Certifications completed from </h2>
+<h2 align="center">Certifications Completed From </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=65FF8F" height=30>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
