@@ -35,7 +35,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Flask-black?style=plastic&logo=Flask&logoColor=white" height=20>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
 </p>
 
 <h2 align="center">Certifications Completed From </h2>
