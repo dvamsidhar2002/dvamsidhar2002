@@ -55,6 +55,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 [![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=xcode)](https://github.com/dvamsidhar2002)
 
 <hr>
+<hr>
 
 <h1 align="center">You can find me on :-</h1>
 <p align="center">
