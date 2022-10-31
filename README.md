@@ -5,7 +5,6 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 
 
-
 [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
 
 
@@ -80,5 +79,6 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <a href="https://dev.to/dvamsidhar2002">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white" height=20></a>
 </p>
+
 
 ![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
