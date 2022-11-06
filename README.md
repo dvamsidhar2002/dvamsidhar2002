@@ -2,9 +2,7 @@
 
 Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=plastic&logo=hp&logoColor=white">
 <img src = "https://img.shields.io/badge/AMD%20Radeon_RX_5600-ED1C24?style=plastic&logo=amd&logoColor=white">
-
- 
- 
+  
  
  
 
