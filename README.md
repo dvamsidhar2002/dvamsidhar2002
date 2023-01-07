@@ -57,7 +57,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 <hr>
 
-[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=xcode)](https://github.com/dvamsidhar2002)
+![D Vamsidhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dvamsidhar2002&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <hr>
 
