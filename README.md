@@ -49,9 +49,9 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 
 ## 📊 GitHub Stats:
-![Vamsidhar's Stats](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamsidhar2002&theme=highcontrast&layout=compact)</br>
+![Vamsidhar's Stats](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=highcontrast&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamsidhar2002&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=onestar&no-frame=true&no-bg=false&column=-1)
