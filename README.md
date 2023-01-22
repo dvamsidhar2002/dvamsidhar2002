@@ -41,6 +41,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
 </p>
 
+
 <h2 align="center">Certifications Completed From </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=65FF8F" height=30>
