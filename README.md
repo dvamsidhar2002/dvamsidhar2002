@@ -38,7 +38,8 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
-  <img src="https://img.shields.io/badge/Flask-0000003?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=plastic&logo=Streamlit&logoColor=#276DC3" height=20>
 </p>
 
 
