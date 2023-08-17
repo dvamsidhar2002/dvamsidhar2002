@@ -38,6 +38,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Streamlit-000000?style=plastic&logo=Streamlit&logoColor=#276DC3" height=20>
