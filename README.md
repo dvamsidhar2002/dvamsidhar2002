@@ -74,7 +74,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
   <a href="https://www.facebook.com/dvamsidhar">
     <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
-  <a href="https://stackoverflow.com/users/19970419/d-vamsidhar">
+  <a href="https://stackoverflow.com/users/21101314/vamsidhar">
     <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
   <a href="https://www.linkedin.com/in/dvamsidhar5932200802/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
