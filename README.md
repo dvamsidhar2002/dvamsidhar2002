@@ -1,7 +1,10 @@
 <img src= "Black Minimal Business Personal Profile Linkedin Banner.png" alt= "Github banner" >
 
-Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=plastic&logo=hp&logoColor=white">
-<img src = "https://img.shields.io/badge/AMD%20Radeon_RX_5600-ED1C24?style=plastic&logo=amd&logoColor=white">
+Workspace Specs :
+<br>
+<img src="https://img.shields.io/badge/hp%20VICTUS-0096D6?style=plastic&logo=hp&logoColor=white">
+GPU 1 - <img src = "https://img.shields.io/badge/AMD%20Radeon_TM_144Hz-ED1C24?style=plastic&logo=amd&logoColor=white">
+GPU 2 - <img src = "https://img.shields.io/badge/NVIDIA%20GeForce_GTX-#76B900?style=plastic&logo=nvidia&logoColor=white">
 
 
 [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
