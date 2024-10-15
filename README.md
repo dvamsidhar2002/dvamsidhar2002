@@ -1,4 +1,4 @@
-<img src= "Black Minimal Business Personal Profile Linkedin Banner.png" alt= "Github banner" >
+<img src= "Black Minimalist Corporate Business Profile LinkedIn Banner.png" alt= "Github banner" >
 
 Workspace Specs :
 <br>
