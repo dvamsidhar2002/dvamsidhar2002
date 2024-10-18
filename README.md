@@ -3,9 +3,7 @@
 Workspace Specs :
 <br>
 <img src="https://img.shields.io/badge/hp%20VICTUS-0096D6?style=plastic&logo=hp&logoColor=white">16GB RAM<br>
-GPU 1 - <img src = "https://img.shields.io/badge/AMD%20Radeon_TM_144Hz-ED1C24?style=plastic&logo=amd&logoColor=white"><br>
-GPU 2 - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?style=plastic&logo=NVIDIA&logoColor=white">
-
+GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?style=plastic&logo=NVIDIA&logoColor=white">
 
 
 [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
