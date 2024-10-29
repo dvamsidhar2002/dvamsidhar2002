@@ -58,7 +58,7 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvamsidhar2002&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="D Vamsidhar">
 <img src="https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="D Vamsidhar" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="D Vamsidhar" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=dvamsidhar2002&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="D Vamsidhar" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=onestar&no-frame=true&no-bg=false&column=-1)
