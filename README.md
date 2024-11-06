@@ -33,7 +33,6 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
