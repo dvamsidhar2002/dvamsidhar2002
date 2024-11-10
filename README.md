@@ -59,7 +59,7 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=dark" alt="D Vamsidhar" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=onestar&no-frame=true&no-bg=false&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=matrix&no-frame=true&no-bg=false&column=-1)
 https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=matrix
 
 <hr>
