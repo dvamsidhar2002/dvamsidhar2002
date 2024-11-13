@@ -89,4 +89,4 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
+![Profile views](https://komarev.com/ghpvc/?username=dvamsidhar2002&color=blue)
