@@ -80,8 +80,6 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
   <a href="https://www.hackerrank.com/dvamsidhar">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
-  <a href="https://vamsidhararticles.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white" height=20></a>
   <a href="https://medium.com/@dvamsidhar2002">
     <img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height=20></a>
   <a href="https://dev.to/dvamsidhar2002">
