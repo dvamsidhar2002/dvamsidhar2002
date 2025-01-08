@@ -8,8 +8,6 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 
 
 
-
-
 [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
 
 
