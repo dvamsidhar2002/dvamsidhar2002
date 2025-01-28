@@ -16,9 +16,9 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 
 [![An image of @dvamsidhar2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dvamsidhar2002)](https://holopin.io/@dvamsidhar2002)
 <h1 align = "center"> Hey! My name is D VAMSIDHAR </h1>
-<h3 align = "center"> Hey there. Welcome to my github profile</h3>
+<h3 align = "center"> Hello there. Welcome to my github profile</h3>
 <h3 align = "center">Love to work in a team.<br> | Explorer | Aspiring Data Scientist | Content Writer | Computer Science Engineer |</br>
-<p>Exploring the field of Data Science.</p>
+<p>Exploring the field of Artificial Intelligence and Machine Learning.</p>
 
 <h2 align="center">Currently Exploring and learning about</h2>
 <p align="center">
