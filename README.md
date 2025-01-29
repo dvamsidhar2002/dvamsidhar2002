@@ -11,7 +11,6 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 
 
 
-
 <h2 align='center'>| HACKTOBERFEST 2024 |</h2>
 
 [![An image of @dvamsidhar2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dvamsidhar2002)](https://holopin.io/@dvamsidhar2002)
