@@ -16,6 +16,7 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 <h3 align = "center">Love to work in a team.<br> | Explorer | Aspiring Data Scientist | Content Writer | Computer Science Engineer |</br>
 <p>Exploring the field of Artificial Intelligence and Machine Learning.</p>
 
+
 <h2 align="center">Currently Exploring and learning about</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
