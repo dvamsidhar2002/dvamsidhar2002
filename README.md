@@ -5,7 +5,18 @@ Workspace Specs :
 <img src="https://img.shields.io/badge/hp%20VICTUS-0096D6?style=plastic&logo=hp&logoColor=white"> <br> 16GB RAM <br>
 GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?style=plastic&logo=NVIDIA&logoColor=white">
 
-Coding Hours: [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
+<table>
+  <tr>
+    <th>Coding Hours</th>
+    <th>
+      <a href="https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9">
+        <img src="https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg" />
+      </a>
+    </th>
+  </tr>
+</table>
+
+<!--Coding Hours: [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)-->
 
 
 <!--<h2 align='center'>| HACKTOBERFEST 2024 |</h2>-->
