@@ -5,6 +5,7 @@ Workspace Specs :
 <img src="https://img.shields.io/badge/hp%20VICTUS-0096D6?style=plastic&logo=hp&logoColor=white"> <br> 16GB RAM <br>
 GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?style=plastic&logo=NVIDIA&logoColor=white">
 
+
 <table>
   <tr>
     <th>Coding Hours</th>
