@@ -31,8 +31,6 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
 <h2 align="center">Currently Exploring and learning about</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
   <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
@@ -46,13 +44,11 @@ GPU - <img src = "https://img.shields.io/badge/NVIDIA_Geforce_GTX_1650-76B900?st
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=PowerBI%20BI&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
   <img src="https://img.shields.io/badge/PyTorch-000000?style=plastic&logo=pytorch&color=white" height=20>
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Streamlit-000000?style=plastic&logo=Streamlit&logoColor=#276DC3" height=20>
 </p>
